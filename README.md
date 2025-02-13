@@ -48,18 +48,35 @@ The core idea behind **ZKCertify** is to create a transparent yet privacy-preser
 **Video Demo:**  
 https://youtu.be/YG1DjKzlmFQ  
 
-**Screenshots:**  
-![image](https://github.com/user-attachments/assets/f2da6a85-c299-48d8-970d-8c33a69ff07c)
-![image](https://github.com/user-attachments/assets/bfd08cda-6a1c-4202-a02a-efa206582556)
-![image](https://github.com/user-attachments/assets/5b969f9b-6c0a-4505-a864-8dcedb614e1c)
-![image](https://github.com/user-attachments/assets/05cadecb-23a3-4253-a885-9e965b092425)
-![image](https://github.com/user-attachments/assets/f8d99b82-a0e4-418f-b3aa-072f53e6944e)
-![image](https://github.com/user-attachments/assets/cae80960-b87a-42f3-b11a-26a24d615ee0)
-![image](https://github.com/user-attachments/assets/52a3679e-93f4-4d1a-afab-bb72b008e29b)
-![image](https://github.com/user-attachments/assets/a0808b42-35b7-4421-b725-937ed12d11fa)
+# Screenshots
 
+## Landing Page  
+![Landing Page](https://github.com/user-attachments/assets/f2da6a85-c299-48d8-970d-8c33a69ff07c)
 
----
+## Recruiter Dashboard  
+![Recruiter Dashboard](https://github.com/user-attachments/assets/bfd08cda-6a1c-4202-a02a-efa206582556)
+
+## Verification Page  
+![Verification Page](https://github.com/user-attachments/assets/5b969f9b-6c0a-4505-a864-8dcedb614e1c)
+
+## Skill Assessment via AI  
+![Skill Assessment via AI](https://github.com/user-attachments/assets/05cadecb-23a3-4253-a885-9e965b092425)
+
+## AI-Generated Test  
+![AI-Generated Test](https://github.com/user-attachments/assets/f8d99b82-a0e4-418f-b3aa-072f53e6944e)
+
+## Student Profile  
+![Student Profile](https://github.com/user-attachments/assets/cae80960-b87a-42f3-b11a-26a24d615ee0)
+
+## Arbitrum Sepolia  
+![Arbitrum Sepolia](https://github.com/user-attachments/assets/52a3679e-93f4-4d1a-afab-bb72b008e29b)
+
+## EduChain  
+![EduChain](https://github.com/user-attachments/assets/7b3f6fcd-7d4a-4fcd-9f02-ae5a0adb7f48)
+
+## Deployed Backend  
+![Deployed Backend](https://github.com/user-attachments/assets/a0808b42-35b7-4421-b725-937ed12d11fa)
+
 
 ## Architecture
 Below is a high-level architecture diagram illustrating the major components and data flow:

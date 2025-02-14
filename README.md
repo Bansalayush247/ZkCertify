@@ -205,14 +205,26 @@ EDU_URL=
 
 ---
 
+## Special Feature
+This project looks after a special feature of working on a combination of academics as well as skillset of a student. The CGPA portion looks after the academic proficiency of the student whereas the exam (here - MCQ based questions) tests the skillset of the student. 
+
+Hence, a mixture of Online Assessment + Academic Proficiency both at the same time - allowing the student to prove his proficiency with a combined value (score) of his Academic performance as well as his skillset, to be eligible for hiring. 
+
+Hence, a student who might not be much academically proficient but has a strong skillset holds an equal chance to be hired against a student who is academically good but might not have a very strong skillset.
+
+---
+
 ## Future Plans
 1. **Additional Skill Tests**  
    - Incorporate new test types (e.g., **Data Structures & Algorithms**, **Assignments**, **Interviews**) that can be automatically graded by **AI**.
-2. **Job Postings & Matching**  
-   - Enable **recruiters** to post job openings with required skills.  
+@@ -213,6 +222,10 @@ EDU_URL=
    - Automatically **match** qualified students to open positions based on their CGPA + test scores.
 3. **NFT-Based Resume**  
    - Allow students to generate a **resume as an NFT**, bundling their verified credentials in a single, on-chain artifact.
+4. **Inculcating Real-World Data**
+   - This project currently works on a sample dataset which can be replaced by a real time dataset containing actual (real-time) records of each and every student.
+5. **Modifiable Cut-off (Threshold) Score**
+   - This project currently considers a sample threshold value (equivalent to "Combined Score of a student in his/her test and his CGPA) of 'x' (here x=1400) which can be modified as per the requirements of the recruiter.
 
 These enhancements will further streamline the student–recruiter interaction while maintaining privacy and trust via zero-knowledge proofs.
 

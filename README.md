@@ -217,7 +217,8 @@ Hence, a student who might not be much academically proficient but has a strong 
 ## Future Plans
 1. **Additional Skill Tests**  
    - Incorporate new test types (e.g., **Data Structures & Algorithms**, **Assignments**, **Interviews**) that can be automatically graded by **AI**.
-@@ -213,6 +222,10 @@ EDU_URL=
+2. **Job Postings and Matching**
+   - Enable recruiters to post job openings with required skills.
    - Automatically **match** qualified students to open positions based on their CGPA + test scores.
 3. **NFT-Based Resume**  
    - Allow students to generate a **resume as an NFT**, bundling their verified credentials in a single, on-chain artifact.
